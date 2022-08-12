@@ -1,0 +1,72 @@
+[
+    {
+        "id": "1",
+        "name": "2-piece Cotton Set",
+        "description": "Play-friendly set with a T-shirt and coordinated cargo shorts. Classic T-shirt in soft cotton jersey with a printed motif and ribbed neck. Cargo shorts in cotton canvas.",
+        "price": "$24",
+        "imageUrl": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F23%2F17%2F2317d4e8b6e4f99ad1facbba69a0e245f7be7680.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+    },
+    {
+        "id": "2",
+        "name": "Sweatshirt",
+        "description": "Soft, relaxed-fit sweatshirt with a printed design. Dropped shoulders, long sleeves, and ribbing at neck, cuffs, and hem.",
+        "price": "$9.9",
+        "imageUrl": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F4e%2F61%2F4e615c8c96789a58b370152877d7ad16bb2d557a.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bkids_clothing_jumperssweatshirt_sweatshirts%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]"
+    },
+    {
+        "id": "3",
+        "name": "Superstretch Slim Fit Jeans",
+        "description": "Slim-fit jeans in washed, superstretch denim for added freedom of movement. Adjustable, elasticized waistband, mock fly with button, front pockets, and back pockets.",
+        "price": "$24",
+        "imageUrl": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F13%2Fae%2F13ae7aa2a08293c43c0cf3d86c7bf0ac3a0a4865.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+    },
+    {
+        "id": "4",
+        "name": "Printed Joggers",
+        "description": "Relaxed-fit sweatpant joggers with a printed design and soft, brushed inside. Elasticized drawstring waistband and ribbing at hems.",
+        "price": "$8.9",
+        "imageUrl": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F57%2F4a%2F574acd75f7e47526bb1e00c09c489705b21b7a02.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]"
+    },
+    {
+        "id": "5",
+        "name": "Cotton Shirt",
+        "description": "Long-sleeved shirt in airy, woven cotton fabric. Turn-down collar, buttons at front and at cuffs, and yoke at back. Rounded hem.",
+        "price": "$24",
+        "imageUrl": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F83%2F0a%2F830a34a497464ce771c31a8b980e8214658ae244.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]"
+    },
+    {
+        "id": "6",
+        "name": "Relaxed Fit Joggers",
+        "description": "Relaxed-fit joggers in washed cotton twill. Drawstring and covered elastic at waistband, mock fly, and tapered legs with covered elastic at hems.",
+        "price": "$9.99",
+        "imageUrl": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F90%2F6a%2F906a5618c5ae0aac38314dbabe75bd7014a48c70.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]"
+    },
+    {
+        "id": "7",
+        "name": "Printed Hooded Jackett",
+        "description": "Loose-fit sweatshirt jacket with a printed motif at front and soft, brushed inside. Lined hood, zipper at front with anti-chafe chin guard, and kangaroo pockets.",
+        "price": "$23",
+        "imageUrl": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F3a%2F02%2F3a0235fa541012766de2926c150069ad3be32707.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]"
+    },
+    {
+        "id": "8",
+        "name": "Cotton Flannel Shirt",
+        "description": "Shirt in soft cotton flannel. Collar, buttons at front, and yoke at back. Open chest pocket, long sleeves with sleeve placket and button at cuffs, and a rounded hem.",
+        "price": "$19.9",
+        "imageUrl": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F1c%2F1d%2F1c1d80c1123f59848824b0b46428e27433fcb884.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]"
+    },
+    {
+        "id": "9",
+        "name": "Water-repellent Puffer Vest",
+        "description": "Water-repellent puffer vest in quilted, woven fabric with a detachable hood. Stand-up collar, zipper at front with anti-chafe chin guard, and welt front pockets.",
+        "price": "$24.99",
+        "imageUrl": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F1a%2Fa3%2F1aa33ebb53aacf021e70902af7218ea39a219ab4.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]"
+    },
+    {
+        "id": "10",
+        "name": "Twill Joggers",
+        "description": "Slim-fit joggers in lightweight, washed cotton twill. Elasticized drawstring waistband, diagonal patch front pockets, and covered elastic at hems.",
+        "price": "$24",
+        "imageUrl": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2Fc6%2F55%2Fc655c66c8defc80b72ff45c661920a70d948d469.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5Bkids_boy8y_trousers_pullon%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]"
+    }
+]
